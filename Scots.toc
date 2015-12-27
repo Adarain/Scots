@@ -1,4 +1,0 @@
-\contentsline {section}{\numberline {1}Pronunciation}{3}{section.1}
-\contentsline {subsection}{\numberline {1.1}Consonants}{3}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}Vowels}{3}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}Stress and Pitch accent}{3}{subsection.1.3}
